@@ -1,5 +1,5 @@
 <?php
- 
+ echo "test pour github";
  require_once ("connexion_BDD.php");
      $connexion=connect_bd();
      
